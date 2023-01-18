@@ -17,7 +17,6 @@ Rectangle {
     height: 650
     color: "#1f2023"
     border.color: "#ffffff"
-    radius: 40
 
     ColumnLayout {
         x: 150
@@ -38,7 +37,7 @@ Rectangle {
 
         MainButton {
             id: mainButton
-            state: "loading"
+            state: "start"
         }
     }
 

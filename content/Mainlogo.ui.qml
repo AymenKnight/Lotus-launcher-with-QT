@@ -13,7 +13,6 @@ Rectangle {
     Rectangle {
         id: iconContainer
         objectName: "iconContainer"
-
         width: 30
         height: 30
         color: "transparent"

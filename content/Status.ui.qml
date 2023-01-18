@@ -17,7 +17,7 @@ Rectangle {
     height: 50
     color: "#18191C"
     radius: 35
-    border.color: "#ffffff"
+
 
     RowLayout {
         x: 17
